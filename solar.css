@@ -1,0 +1,50 @@
+/* ... existing styles ... */
+
+.hero-image-stats {
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    border-radius: 5px;
+    display: flex;
+    gap: 20px;
+}
+
+.hero-image-stats .stat {
+    text-align: center;
+}
+
+.hero-image-stats .stat h2 {
+    font-size: 2rem;
+    margin-bottom: 5px;
+}
+
+.hero-image-stats .stat p {
+    font-size: 1rem;
+    color: #333;
+}
+
+.services-categories {
+    display: flex;
+    gap: 10px;
+    margin-top: 20px;
+}
+
+.service-category {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.service-category i {
+    font-size: 1.2rem;
+}
+
+/* ... existing styles ... */
